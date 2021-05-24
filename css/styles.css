@@ -226,6 +226,9 @@ h1,h2,h3{
     width: 100%;
 }
 
+textarea{
+    resize: none;
+}
 /* Footer */
 footer{
     text-align: center;
